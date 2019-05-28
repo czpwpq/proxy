@@ -11,7 +11,7 @@ jsproxy_config({
       ]
     },
       'google-daban': {
-      label: '谷歌云-大阪测试',
+      label: '测试-大阪',
       lines: [
         'proxy2.xchomes.com:8443'
       ]
