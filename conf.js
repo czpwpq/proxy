@@ -10,6 +10,12 @@ jsproxy_config({
         'proxy1.xchomes.com:8443'
       ]
     },
+      'google-daban': {
+      label: '谷歌云-大阪测试',
+      lines: [
+        'proxy2.xchomes.com:8443'
+      ]
+    },
     'bwh-la': {
       label: '搬瓦工-洛杉矶',
       lines: [
